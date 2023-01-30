@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pica2pica.github.io</id>
+    <title>航向树冠层</title>
+    <updated>2023-01-30T08:30:50.058Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pica2pica.github.io"/>
+    <link rel="self" href="https://pica2pica.github.io/atom.xml"/>
+    <subtitle>行行重行行</subtitle>
+    <logo>https://pica2pica.github.io/images/avatar.png</logo>
+    <icon>https://pica2pica.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 航向树冠层</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea测试]]></title>
+        <id>https://pica2pica.github.io/post/gridea-ce-shi/</id>
+        <link href="https://pica2pica.github.io/post/gridea-ce-shi/">
+        </link>
+        <updated>2023-01-30T07:13:12.000Z</updated>
+        <content type="html"><![CDATA[<p>善哉行-其一 曹丕<br>
+上山采薇，薄暮苦饥。<br>
+溪谷多风，霜露沾衣。<br>
+野雉群雊，猿猴相追。<br>
+还望故乡，郁何垒垒！<br>
+高山有崖，林木有枝。<br>
+忧来无方，人莫之知。<br>
+人生如寄，多忧何为？<br>
+今我不乐，岁月如驰。<br>
+汤汤川流，中有行舟。<br>
+随波转薄，有似客游。<br>
+策我良马，被我轻裘。<br>
+载驰载驱，聊以忘忧。</p>
+<h1 id="这是一级标题">这是一级标题</h1>
+<h2 id="二级">二级</h2>
+<h3 id="三级">三级</h3>
+<ul>
+<li>无序列表1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+<ol>
+<li>有序列表1</li>
+<li>2</li>
+<li>3</li>
+</ol>
+<blockquote>
+<p>引用段落<br>
+第二行</p>
+</blockquote>
+<p><strong>加粗</strong><br>
+<em>斜体</em><br>
+链接<a href="https://huangsl.fun">航向树冠层</a><br>
+表情：😀<br>
+图片测试：<img src="https://pica2pica.github.io/post-images/1675063393446.jpeg" alt="" loading="lazy"><br>
+b站视频测试</p>
+<iframe src="//player.bilibili.com/player.html?aid=392397221&bvid=BV1id4y1E74h&cid=954076474&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="95%" height="600"> </iframe>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://pica2pica.github.io/post/hello-gridea/</id>
+        <link href="https://pica2pica.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
